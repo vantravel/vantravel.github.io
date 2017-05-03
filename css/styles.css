@@ -57,10 +57,10 @@
       -ms-flex-negative: 0;
           flex-shrink: 0;
 }
-.demo-blog .on-the-road-again .mdl-card__media {
+.on-the-road-again .mdl-card__media {
   background-image: url('images/vanscot.jpg');
 }
-.demo-blog .mdl-card__media {
+.mdl-card__media {
     box-sizing: border-box;
     background-size: cover;
     padding: 24px;
