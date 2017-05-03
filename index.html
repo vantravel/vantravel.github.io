@@ -2,20 +2,8 @@
 layout: default
 title: Van Travel
 ---
-<div class="mdl-card on-the-road-again mdl-cell mdl-cell--12-col">
-	<div class="mdl-card__media mdl-color-text--grey-50">
-		<h3><a href="/blog/2017/03/01/test-post" title="Test post on github pages">Test Page's Header</a></h3>
-	</div>
-	<div class="mdl-color-text--grey-600 mdl-card__supporting-text">
-		Content for a test page here...
-	</div>
-	<div class="mdl-card__supporting-text meta mdl-color-text--grey-600">
-		<div class="minilogo"></div>
-		<div><strong>By Jimmy Clarke</strong><span>03 May 2017</span></div>
-	</div>
-</div>
 {% for post in site.posts %}
-<div class="mdl-card on-the-road-again mdl-cell mdl-cell--12-col">
+<div class="mdl-card on-the-road-again mdl-cell mdl-cell--12-col" style="background-image:url('{{ post.image }}');">
 	<div class="mdl-card__media mdl-color-text--grey-50">
 		<h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
 	</div>
