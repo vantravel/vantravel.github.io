@@ -19,6 +19,7 @@
     bottom: 0;
     top: 0;
     position: fixed;
+    background-position-x:50%;
 }
 @media (max-width: 512px)  and (-webkit-min-device-pixel-ratio: 1.5),
        (max-width: 512px)  and (min-resolution: 1.5dppx),
