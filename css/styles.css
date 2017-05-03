@@ -57,3 +57,6 @@
       -ms-flex-negative: 0;
           flex-shrink: 0;
 }
+.demo-blog .on-the-road-again .mdl-card__media {
+  background-image: url('images/vanscot.jpg');
+}
