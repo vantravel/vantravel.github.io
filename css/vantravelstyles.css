@@ -27,10 +27,26 @@ min-height:500px;
 h1{
 text-align:center;
 }
-.hometravels{}
-.homeguides{}
-.homethevan{}
-.homeaboutus{}
+aside{
+width: 400px;
+float: left;
+height: 300px;
+background-size: contain;
+background-repeat: no-repeat;
+position: relative;
+}
+.hometravels{    
+background-image: url(/images/travels.jpg);
+}
+.homeguides{
+background-image: url(/images/guides.jpg);
+}
+.homethevan{
+background-image: url(/images/thevan.jpg);
+}
+.homeaboutus{
+background-image: url(/images/aboutus.jpg);
+}
 footer{
 background-color: rgb(235, 198, 17);
     padding: 15px;
