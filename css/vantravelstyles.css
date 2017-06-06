@@ -1,3 +1,6 @@
+body{
+margin:0;
+}
 header{
 background-image: url(../images/vanhero.jpg);
 height: 300px;
