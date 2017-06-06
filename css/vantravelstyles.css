@@ -57,6 +57,7 @@ background-color: #ebc611;
 font-size: 20px;
 }
 footer{
+clear:both;
 background-color: rgb(235, 198, 17);
 padding: 15px;
 }
