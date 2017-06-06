@@ -33,6 +33,7 @@ float: left;
 height: 300px;
 background-size: cover;
 background-repeat: no-repeat;
+background-position: 50% 50%;
 position: relative;
 margin:20px;
 }
