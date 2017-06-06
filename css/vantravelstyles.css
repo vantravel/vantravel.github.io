@@ -39,7 +39,7 @@ position: relative;
 background-image: url(/images/travels.jpg);
 }
 .homeguides{
-background-image: url(/images/guides.jpg);
+background-image: url(/images/guides.JPG);
 }
 .homethevan{
 background-image: url(/images/thevan.jpg);
@@ -47,7 +47,15 @@ background-image: url(/images/thevan.jpg);
 .homeaboutus{
 background-image: url(/images/aboutus.jpg);
 }
+aside span{
+position: absolute;
+top: 75%;
+padding: 10px;
+padding-right: 50px;
+background-color: #ebc611;
+font-size: 20px;
+}
 footer{
 background-color: rgb(235, 198, 17);
-    padding: 15px;
+padding: 15px;
 }
