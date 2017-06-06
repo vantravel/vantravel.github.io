@@ -21,3 +21,13 @@ padding-right: 50px;
 nav a:hover{
 color:rgb(255, 222, 23);
 }
+main{
+min-height:500px;
+}
+h1{
+text-align:center;
+}
+footer{
+background-color: rgb(235, 198, 17);
+    padding: 15px;
+}
