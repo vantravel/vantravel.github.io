@@ -10,6 +10,12 @@ background-size: cover;
 }
 nav{
 padding-top: 40px;
+background-image: url(/images/VT.png);
+background-size: contain;
+background-repeat: no-repeat;
+background-position: 40px 30px;
+height: 80px;
+background-size: 100px;
 }
 nav a{
 color: white;
