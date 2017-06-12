@@ -88,8 +88,3 @@ clear:both;
 background-color: rgb(235, 198, 17);
 padding: 15px;
 }
-@media screen and (max-width: 1000px) {
-  aside{
-    width:47%;
-  }
-}
