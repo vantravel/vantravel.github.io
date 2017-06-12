@@ -64,6 +64,8 @@ padding: 10px;
 padding-right: 50px;
 background-color: #ebc611;
 font-size: 20px;
+color: white;
+text-shadow: -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(0, 0, 0), -1px 1px 0 rgb(0, 0, 0), 1px 1px 0 rgb(0, 0, 0);
 }
 footer{
 clear:both;
