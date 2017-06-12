@@ -65,6 +65,7 @@ aside span{
 position: absolute;
 top: 75%;
 padding: 10px;
+padding-top: 5px;
 padding-right: 50px;
 background-color: #ebc611;
 font-size: 25px;
