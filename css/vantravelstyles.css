@@ -39,7 +39,7 @@ h1{
 text-align:center;
 }
 aside{
-width: 48%;
+width: 49%;
 float: left;
 height: 400px;
 background-size: cover;
@@ -49,6 +49,7 @@ position: relative;
 border: 5px solid #ebc611;
 margin-right: 1%;
 margin-bottom: 1%;
+box-sizing: border-box;
 }
 aside a{
 width: 100%;
