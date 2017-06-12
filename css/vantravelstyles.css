@@ -11,6 +11,12 @@ background-size: cover;
 nav{
 padding-top: 40px;
 }
+nav span{
+color: white;
+font-weight: 400;
+padding-left: 20px;
+font-size: 30px;
+}
 nav a{
 color: white;
 text-decoration: none;
